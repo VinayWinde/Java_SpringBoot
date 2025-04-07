@@ -53,3 +53,9 @@ mvn clean install
 mvn spring-boot:run
 
 
+🔗 API Endpoints
+Method	Endpoint	Description
+GET	   /get	Get all employees
+POST	
+PUT	
+DELETE	/{ID}
